@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ポエジー",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-16T09:22:32.238394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポエジー",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_ポエジー_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポエジー",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_ポエジー_amazarashi.txt"
+    }
+  ]
+}
